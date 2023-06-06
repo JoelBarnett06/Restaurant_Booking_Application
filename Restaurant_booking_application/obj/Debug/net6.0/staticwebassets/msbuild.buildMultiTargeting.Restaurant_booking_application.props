@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Restaurant_booking_application.props" />
+</Project>
