@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joelb\\Desktop\\College_M2107557\\BookingApplication\\Restaurant_booking_application\\Restaurant_booking_application\\Restaurant_booking_application.csproj": {}
+    "C:\\Users\\joelb\\Desktop\\College_M2107557\\Restaurant_Booking_Application\\Restaurant_booking_application\\Restaurant_booking_application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joelb\\Desktop\\College_M2107557\\BookingApplication\\Restaurant_booking_application\\Restaurant_booking_application\\Restaurant_booking_application.csproj": {
+    "C:\\Users\\joelb\\Desktop\\College_M2107557\\Restaurant_Booking_Application\\Restaurant_booking_application\\Restaurant_booking_application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joelb\\Desktop\\College_M2107557\\BookingApplication\\Restaurant_booking_application\\Restaurant_booking_application\\Restaurant_booking_application.csproj",
+        "projectUniqueName": "C:\\Users\\joelb\\Desktop\\College_M2107557\\Restaurant_Booking_Application\\Restaurant_booking_application\\Restaurant_booking_application.csproj",
         "projectName": "Restaurant_booking_application",
-        "projectPath": "C:\\Users\\joelb\\Desktop\\College_M2107557\\BookingApplication\\Restaurant_booking_application\\Restaurant_booking_application\\Restaurant_booking_application.csproj",
+        "projectPath": "C:\\Users\\joelb\\Desktop\\College_M2107557\\Restaurant_Booking_Application\\Restaurant_booking_application\\Restaurant_booking_application.csproj",
         "packagesPath": "C:\\Users\\joelb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joelb\\Desktop\\College_M2107557\\BookingApplication\\Restaurant_booking_application\\Restaurant_booking_application\\obj\\",
+        "outputPath": "C:\\Users\\joelb\\Desktop\\College_M2107557\\Restaurant_Booking_Application\\Restaurant_booking_application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joelb\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,36 +40,17 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Dapper": {
-              "target": "Package",
-              "version": "[2.0.123, )"
-            },
-            "Npgsql": {
-              "target": "Package",
-              "version": "[7.0.4, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
         }
       }
     }

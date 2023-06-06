@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "02pRY83XI74WXPfp+ONp9tcQ3ewhS9udaX+6Smia8XyWgnb9msucXEi8bliv8euwWHQeu7YIXM8U0M+59e2q4Q==",
+  "dgSpecHash": "eG7ZE0xhWRCOoN7jk3WgDZKxpjcGJXJhfpiIuKvQoZ3RbJHirV3z8r9G3tlx7QVKN9WfIwREcYwpeJfU15VVSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joelb\\Desktop\\College_M2107557\\BookingApplication\\Restaurant_booking_application\\Restaurant_booking_application\\Restaurant_booking_application.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\joelb\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
-    "C:\\Users\\joelb\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\joelb\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
-    "C:\\Users\\joelb\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\joelb\\Desktop\\College_M2107557\\Restaurant_Booking_Application\\Restaurant_booking_application\\Restaurant_booking_application.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
